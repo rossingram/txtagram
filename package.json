@@ -1,0 +1,9 @@
+{
+  "name": "txtagram",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": ">=2.2.0",
+    "ejs": ">=0.6.1",
+    "couch": ">=0.0.3"
+  }
+}
