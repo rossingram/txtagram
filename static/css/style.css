@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5  {
 	font-size: 20px;
 	color: #333;
 	padding: 78px 0 0 0;
-	background: url(static/images/header.png) no-repeat;
+	background: url(../static/images/header.png) no-repeat;
 }
 /*----- Content container for frontpage -----*/
 #content {
