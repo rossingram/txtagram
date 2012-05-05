@@ -7,7 +7,7 @@ var c = couch(process.env.CLOUDANT_URL+"/txtagram");
 app.use(express.bodyParser());
 
 app.get('/', function(req, res){
-    res.render("index-post.ejs", {layout:false});
+    res.render("index-pre.ejs", {layout:false});
 });
 
 
